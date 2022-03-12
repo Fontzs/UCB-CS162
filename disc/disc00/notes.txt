@@ -1,0 +1,19 @@
+1.  c的垃圾回收
+
+2.  3个相同的value nums, &nums, &nums[0]
+
+3.  #pragma
+
+4.  argv[0]指的是什么(app中)
+
+5.  字符串常量存储在.text段中，和代码存在一起，用户只有r和x的权限
+
+6.  base pointer的中文翻译及解释
+
+7.  x86 byte[eax]是类型转换的意思吗
+
+8.  calling convertion和系统调用
+
+9.  caller保存寄存器入栈后，callee将参数压栈之前，十六字节对齐
+
+10. 
